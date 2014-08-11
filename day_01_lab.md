@@ -85,7 +85,7 @@ Create an array of students and allow the user to keep adding new students to th
 ```
 Would you like to add another student?
 yes
-What is the student name?
+What is the student's name?
 Taco
 The array of instructors now looks like: ["Taco"]
 Would you like to add another student?
