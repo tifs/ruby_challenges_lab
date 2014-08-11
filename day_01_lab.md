@@ -1,6 +1,6 @@
 # Intro to Ruby Lab
 
-For this lab, we'd like you to complete a few challenges to reenforce your knowledge of integers, strings, arrays and booleans as well as iterators.
+For this lab, we'd like you to complete a few challenges to reinforce your knowledge of integers, strings, arrays and booleans as well as iterators.
 
 ### Challenge 1 - Temperature Converter
 
