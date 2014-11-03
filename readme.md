@@ -30,7 +30,7 @@ Your result is 9
 
 ### Challenge 3 - Word Count
 
-Write a method called `wordCount` to count word occurence in a
+Write a method called `word_count` to count word occurence in a
 sentence, returned as a `Hash`.
 
 
