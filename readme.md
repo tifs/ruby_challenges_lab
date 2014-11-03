@@ -28,15 +28,11 @@ What is number 2?
 Your result is 9
 ```
 
-### Challenge 3 - Reverse a string
+### Challenge 3 - Word Count
 
-Reverse a string in place.  In other words, do not create a new string or use other methods on the string such as reverse.  The goal of the problem is to use a loop and the string accessors to figure out which values to swap for other values.  Below is the output.
+Write a method called `wordCount` to count word occurence in a
+sentence, returned as a `Hash`.
 
-```
-Enter a string:
-reverse_me
-em_esrever
-```
 
 ### Challenge 4 - Bank Transactions
 
